@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.minimap.enabled": false,
+		"editor.wordWrap": "on",
+		"editor.insertSpaces": false,
+		"editor.fontFamily": "Consolas",
+		"files.autoSave": "onWindowChange",
+		"editor.codeLens": false,
+		"editor.comments.insertSpace": true,
+		"editor.dragAndDrop": false,
+		"javascript.format.insertSpaceAfterConstructor": false,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": false,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": false,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": false,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+		"typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false
+	}
+}
