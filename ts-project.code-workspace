@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "onWindowChange",
+		"editor.fontFamily": "Consolas",
+		"editor.insertSpaces": false,
+		"editor.wordWrap": "on",
+		"workbench.editor.enablePreview": true,
+		"editor.codeLens": false,
+		"editor.dragAndDrop": false,
+		"editor.maxTokenizationLineLength": 10000,
+		"editor.minimap.enabled": false,
+		"files.eol": "\r\n",
+		"files.maxMemoryForLargeFilesMB": 1024,
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true
+	}
+}
