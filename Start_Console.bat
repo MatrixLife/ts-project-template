@@ -10,14 +10,14 @@
 
 @echo "%PROJ_NAME%" Project Console
 @echo;
-@echo     GIT_PATH = %GIT_PATH%
-@echo     cmd-git  = %cmd-git%
-@echo;
+@echo     GIT_PATH  = %GIT_PATH%
 @echo     NODE_PATH = %NODE_PATH%
-@echo     cmd-node  = %cmd-node%
-@echo     cmd-npm   = %cmd-npm%
-@echo     cmd-npx   = %cmd-npx%
-@echo     cmd-tsc   = %cmd-tsc%
+@echo;
+@echo     cmd-git  = %cmd-git%
+@echo     cmd-node = %cmd-node%
+@echo     cmd-npm  = %cmd-npm%
+@echo     cmd-npx  = %cmd-npx%
+@echo     cmd-tsc  = %cmd-tsc%
 @echo;
 @echo     PATH = %PATH%
 @echo;
