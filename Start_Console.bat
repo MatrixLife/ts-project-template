@@ -1,8 +1,8 @@
 @%~d0
 @chdir %~dp0
 @call project-env.bat
-@set PATH=%PATH%;%NODE_PATH%
 
+@set PATH=%PATH%;%NODE_PATH%
 @set cmd-node=%NODE_PATH%\node.exe
 @set cmd-npm=%NODE_PATH%\npm.cmd
 @set cmd-npx=%NODE_PATH%\npx.cmd
