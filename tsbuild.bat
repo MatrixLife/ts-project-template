@@ -1,6 +1,3 @@
-@rem "tsconfig.json" reference: https://www.typescriptlang.org/tsconfig
-@rem "tsconfig.json" 参考文档(中文): https://www.tslang.cn/docs/handbook/tsconfig-json.html
-
 @%~d0
 @chdir %~dp0
 @call project-env.bat

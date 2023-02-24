@@ -1,6 +1,7 @@
 @%~d0
 @chdir %~dp0
 @call project-env.bat
+@set PATH=%PATH%;%GIT_PATH%\bin;%NODE_PATH%
 
 @set cmd-git=%GIT_PATH%\bin\git.exe
 @set cmd-node=%NODE_PATH%\node.exe
